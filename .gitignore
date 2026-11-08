@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+mbb_pbp_*.csv
+lineup_events_*.csv
+lineup_summary_*.csv
